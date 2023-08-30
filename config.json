@@ -1,0 +1,22 @@
+{
+    "modules": [
+        "splash",
+        "intro",
+        "login",
+        "register",
+        "forgot_password",
+        "change_password",
+        "dashboard",
+        "main_navigation",
+        "profile",
+        "product_list",
+        "product_detail",
+        "profile",
+        "edit_profile"
+    ],
+    "module_directory_name": "module",
+    "experimental_mode": false,
+    "learning_mode": false,
+    "unfreezed": true,
+    "use_cubit": false
+}
